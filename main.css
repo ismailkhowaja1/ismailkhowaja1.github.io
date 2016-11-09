@@ -1,40 +1,45 @@
-.hero-area{
-	background: #c8e6c9;
-	height: 100vh;
-	background-size: cover;
+body {
+	background: #F0F0F0;
 }
 
-.brand{
+.hero-area {
+	background: #081945;
+	height: 100vh;
+	background-size: cover;
+	color: #BFBFBF;
+}
+
+.brand {
 	text-align: center;
 	background: transparent;
 }
 
-.brand img{
+.brand img {
 	width: 150px;
 	height: 150px;
 }
 
-.intro-area{
+.intro-area {
 	width: 80%;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.work-sec .container{
+.work-sec .container {
 	border-top: 1px solid #4db6ac;
 }
 
 
-.communities .container{
+.communities .container {
 	border-top: 2px solid #4db6ac;
 }
 
-.communities .card-image,img{
+.communities .card-image,img {
 	height: 100%;
 }
 
-h1,h2,.brand,h5{
+h1,h2,.brand,h5 {
 	text-transform: uppercase;
 }
 @media  screen and (max-width: 600px) {
