@@ -31,16 +31,16 @@ body {
 }
 
 
-.communities .container {
-	border-top: 2px solid #4db6ac;
-}
-
 .communities .card-image,img {
 	height: 100%;
 }
 
 h1,h2,.brand,h5 {
 	text-transform: uppercase;
+}
+
+.projects a{
+	color: #e59503;
 }
 @media  screen and (max-width: 600px) {
 	.brand h1{
