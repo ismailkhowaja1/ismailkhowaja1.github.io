@@ -40,8 +40,9 @@ h1,h2,.brand,h5 {
 }
 
 .projects a{
-	color: #e59503;
+	color: #e5aa03;
 }
+
 @media  screen and (max-width: 600px) {
 	.brand h1{
 		font-size: 25px;
